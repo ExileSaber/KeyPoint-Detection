@@ -6,4 +6,7 @@
 * 网络采用的是U-net下采样部分
 * 标签构建采用的Coordinate方法，损失函数仅采用了坐标点之间的距离平方和
 
-![image](https://github.com/ExileSaber/KeyPoint-Detection/blob/main/offset/result/08_11/test_data/202107170976_4_keypoint.jpg)
+
+## 模型效果
+<img src="https://github.com/ExileSaber/KeyPoint-Detection/blob/main/offset/result/08_11/test_data/202107170976_4_keypoint.jpg" width="400" height="300" alt="网络效果"/><br/>
+
