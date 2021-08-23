@@ -8,5 +8,6 @@
 
 
 ## 模型效果
-<img src="https://github.com/ExileSaber/KeyPoint-Detection/blob/main/offset/result/08_11/test_data/202107170976_4_keypoint.jpg" width="400" height="300" alt="网络效果"/><br/>
+其中绿色点为标注的关键点，红色为预测的关键点
+<img src="https://github.com/ExileSaber/KeyPoint-Detection/blob/main/offset/result/08_11/test_data/202107170976_4_keypoint.jpg" width="800" height="600" alt="网络效果"/><br/>
 
